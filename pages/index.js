@@ -1,10 +1,8 @@
 import Head from "next/head";
 import Image from "next/image";
-import Categories from "../components/categories";
-import Discover from "../components/discover";
+import Discover from "../components/discover/index.jsx";
 import Footer from "../components/footer";
 import Hero from "../components/hero";
-// import styles from "../styles/Home.module.css";
 import Navbar from "../components/navbar";
 
 export default function Home() {
