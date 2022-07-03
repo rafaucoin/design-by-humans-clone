@@ -20,8 +20,6 @@ export default function Home() {
         <Navbar />
         <Hero />
         <Discover />
-        <Categories />
-        <Section />
         <Footer />
         <Action />
       </main>
