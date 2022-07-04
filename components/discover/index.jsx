@@ -35,7 +35,7 @@ function Discover() {
           />
           <div className="absolute bg-black bg-opacity-50  w-full h-full flex items-center top-0 justify-center ">
             <h1 className="font-bold opacity-1 text-md	md:text-3xl text-white">
-              SHOP MEN'S
+              SHOP MEN&aposS
             </h1>
           </div>
         </div>
@@ -64,7 +64,7 @@ function Discover() {
           />
           <div className="absolute bg-black bg-opacity-50  w-full h-full flex items-center top-0 justify-center ">
             <h1 className="font-bold opacity-1 text-md	md:text-3xl text-white">
-              SHOP WOMEN'S
+              SHOP WOMEN&aposS
             </h1>
           </div>
         </div>
