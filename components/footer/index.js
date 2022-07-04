@@ -179,7 +179,7 @@ function Footer() {
           <span className="footer-link-div">/</span>
 
           <a href="/sitemap/" className="footer-link icon-hover">
-            Sitemap
+            Site
           </a>
         </div>
       </div>
